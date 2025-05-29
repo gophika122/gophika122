@@ -20,7 +20,7 @@
 - UI/UX design enhancements for existing tools
 
 ### 📫 How to reach me:
-- 📧 Email: gophikaa122@gmail.com
+- 📧 Email: gophikagopalakrishnan@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/gophika122](https://linkedin.com/in/gophika122)
 - 🌐 Portfolio: ( https://gophika122.github.io/Gophika-s-portfolio/ )
 
